@@ -2,7 +2,7 @@
 ______________________________________
 
 
-[Страница](https://github.com/proksiks/alpha/tree/main)
+[Страница](https://proksiks.github.io/alpha/)
 
 
 ______________________________________
