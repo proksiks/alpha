@@ -1,6 +1,6 @@
 <template>
   <Header />
-  <Head title="Новости" image="/images/head-bg.jpg" />
+  <Head title="Новости" image="./images/head-bg.jpg" />
   <main class="main">
     <div class="container">
       <ul class="posts">
